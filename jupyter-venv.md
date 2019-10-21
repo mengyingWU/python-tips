@@ -9,3 +9,5 @@ python -m ipykernel install --user --name venv --display-name venv
 ![image](image.png)
 
 这样就可以在启动jupyter是，选择venv这个环境啦～
+
+
